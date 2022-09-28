@@ -1,3 +1,3 @@
 # Deepnoid-Education
 
-강의 실습
+실습
