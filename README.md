@@ -1,3 +1,3 @@
-# Deepnoid-Education
+# 강의용 자료
 
 실습
